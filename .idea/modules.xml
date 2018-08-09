@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Demo\AndroidDemo\WaveView_master\WaveView-master\WaveView.iml" filepath="D:\Demo\AndroidDemo\WaveView_master\WaveView-master\WaveView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WaveView-master.iml" filepath="$PROJECT_DIR$/WaveView-master.iml" />
+      <module fileurl="file://D:\Demo\AndroidDemo\WaveView_master\WaveView-master\app\app.iml" filepath="D:\Demo\AndroidDemo\WaveView_master\WaveView-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
